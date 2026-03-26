@@ -1,4 +1,3 @@
-# kotenseki-labs.github.io
 ## Ariel Stilerman / スティラーマン・有得 (アリエル)
 **Premodern Japanese Literature**
 
