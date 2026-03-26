@@ -4,7 +4,9 @@
 
 **Stanford University**
 
-[ORCID](https://orcid.org/0000-0002-2976-988X) | [LinkedIn](https://www.linkedin.com/in/ariel-stilerman/) | [X (Twitter)](https://x.com/kotenseki) | [Bluesky](https://bsky.app/profile/kotenseki.bsky.social) | [Instagram](https://www.instagram.com/kotenseki/) | [Behance](https://www.behance.net/search/projects/stilerman)
+[Full Academic Website](https://kotenseki.notion.site/ariel-stilerman)
+
+[ORCID](https://orcid.org/0000-0002-2976-988X) | [LinkedIn](https://www.linkedin.com/in/ariel-stilerman/) | [Instagram](https://www.instagram.com/kotenseki/) | [Behance](https://www.behance.net/search/projects/stilerman)
 
 ---
 
@@ -27,6 +29,7 @@ More broadly, I am interested in how we engage with the world through our senses
 
 * *Court Poetry and The Culture of Learning in Japan.* Harvard University Asia Center, 2026. [[get](https://www.hup.harvard.edu/books/9780674303416)]
 * "The Portrayal of Work in Early Medieval Illustrated Scrolls." *Japan Review* 41 (2026), 1-43. [[read](https://www.nichibun.ac.jp/en/publications/announce/jr/)]
+* "Material Heuristics in the Humanities." *Stanford Humanities Review* 2 (2025), pp. 165-172. [[read](https://publuu.com/flip-book/706994/1963724/page/172)]
 * "Cultural Knowledge and Professional Training in the Poetic Treatises of Late Heian Japan." *Monumenta Nipponica* 72.2 (2017), pp. 153-187. [[read](https://muse.jhu.edu/article/687802)]
 
 * *Chanoyu hyakushu: Los cien poemas del arte del té.* Madrid: Satori, 2022. [[get](https://satoriediciones.com/libros/los-cien-poemas-del-arte-del-te/)]
@@ -34,7 +37,6 @@ More broadly, I am interested in how we engage with the world through our senses
 * "La interpretación de la poesía tradicional japonesa: texto, contexto e intertexto." *Mirai Nihon Kenkyū Kiyō* 2 (2018), pp. 153-174. [[read](https://revistas.ucm.es/index.php/MIRA/article/view/60502)]
 
 ## Teaching with Medieval Technology
-* "Material Heuristics in the Humanities." *Stanford Humanities Review* 2 (2025), pp. 165-172. [[read](https://publuu.com/flip-book/706994/1963724/page/172)]
 * "Assignment Design for Material Literacy and Critical Making." Teaching Tea: History, Practice, Art on Japan Past & Present. Yanai Initiative at Waseda University & UCLA (2025). [[read](https://japanpastandpresent.org/jp/projects/tea-culture-history-practice/resources/go-make-tea-assignment-design-for-material-literacy-and-critical-making)]
 
 ## Teaching with Current Technology
