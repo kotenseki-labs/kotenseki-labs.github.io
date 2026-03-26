@@ -4,9 +4,7 @@
 
 **Stanford University**
 
-[Full Academic Website](https://kotenseki.notion.site/ariel-stilerman)
-
-[ORCID](https://orcid.org/0000-0002-2976-988X) | [LinkedIn](https://www.linkedin.com/in/ariel-stilerman/) | [Instagram](https://www.instagram.com/kotenseki/) | [Behance](https://www.behance.net/search/projects/stilerman)
+[Full Academic Website](https://kotenseki.notion.site/ariel-stilerman) | [ORCID](https://orcid.org/0000-0002-2976-988X) | [LinkedIn](https://www.linkedin.com/in/ariel-stilerman/) | [Instagram](https://www.instagram.com/kotenseki/) | [Behance](https://www.behance.net/search/projects/stilerman)
 
 ---
 
@@ -42,5 +40,5 @@ More broadly, I am interested in how we engage with the world through our senses
 ## Teaching with Current Technology
 * "In the age of AI, we should still teach students to make things." *Financial Times*, 19 Aug. 2025. [[read](https://www.ft.com/content/b2a4ed4c-a16f-46af-83d1-fa79623ce429)]
 * "What LLMs Must Forget to Teach Effectively (Lessons in Designing AI Tutors for Premodern Japanese)." White paper (2026). [[read](https://github.com/kotenseki-labs/bungo-bot/blob/main/What_LLMs_Need.pdf)]
-* Kogo shinan karakuri 古語指南絡繰 / An Automated Tutor for Premodern Japanese Languages. [[try](https://kotenseki.notion.site/kogotutor)]
+* _Kogo shinan karakuri_ 古語指南絡繰 / An Automated Tutor for Premodern Japanese Languages. [[try](https://kotenseki.notion.site/kogotutor)]
 * AI Tutor Starter Kit: How to Make an AI Tutor for College-Level Courses. [[try](https://kotenseki.notion.site/workshop)]
