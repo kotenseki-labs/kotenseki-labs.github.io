@@ -1,6 +1,7 @@
 # kotenseki-labs.github.io
-# Ariel Stilerman / スティラーマン・有得 (アリエル)
+## Ariel Stilerman / スティラーマン・有得 (アリエル)
 **Premodern Japanese Literature**
+
 **Stanford University**
 
 [ORCID](https://orcid.org/0000-0002-2976-988X) | [LinkedIn](https://www.linkedin.com/in/ariel-stilerman/) | [X (Twitter)](https://x.com/kotenseki) | [Bluesky](https://bsky.app/profile/kotenseki.bsky.social) | [Instagram](https://www.instagram.com/kotenseki/) | [Behance](https://www.behance.net/search/projects/stilerman)
